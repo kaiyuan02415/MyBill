@@ -2,6 +2,8 @@
 
 *Based on JavaSwing and MySQL
 
+面向对象以及规范化开发的第一课！
+
 使用了Swing框架和Mysql数据库进行开发
 
 作为初学者练手的项目非常合适
